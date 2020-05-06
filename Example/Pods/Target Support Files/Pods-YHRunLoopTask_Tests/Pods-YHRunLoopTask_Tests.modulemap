@@ -1,0 +1,6 @@
+framework module Pods_YHRunLoopTask_Tests {
+  umbrella header "Pods-YHRunLoopTask_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

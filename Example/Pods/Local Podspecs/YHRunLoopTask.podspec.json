@@ -1,0 +1,22 @@
+{
+  "name": "YHRunLoopTask",
+  "version": "0.1.0",
+  "summary": "A short description of YHRunLoopTask.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/FyhSky/YHRunLoopTask",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "FyhSky": "fengyinghaotjut@126.com"
+  },
+  "source": {
+    "git": "https://github.com/FyhSky/YHRunLoopTask.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YHRunLoopTask/Classes/**/*"
+}

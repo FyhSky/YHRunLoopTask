@@ -1,0 +1,6 @@
+framework module Pods_YHRunLoopTask_Example {
+  umbrella header "Pods-YHRunLoopTask_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
